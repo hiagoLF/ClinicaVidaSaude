@@ -1,0 +1,93 @@
+#contact-page {
+    width: 98.8vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#contact-page .today-background {
+    background-color: #fff3c1;
+    width: 96.4vw;
+    height: 97vh;
+
+    margin: 1.2%;
+    border-radius: 10px;
+
+    position: absolute;
+
+    z-index: -1;
+}
+
+#contact-page #header {
+    width: 90vw;
+    font-size: 2.5vw;
+    margin-top: 6vh;
+    margin-bottom: 9vh;
+}
+
+#contact-page #header h3, span {
+    margin: 0;
+}
+
+#contact-page #contact-info {
+    width: 60vw;
+}
+
+#contact-page #contact-info .contact-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+#contact-page #contact-info .contact-item img {
+    width: 10vw;
+}
+
+#contact-page #contact-info .contact-item h3 {
+    font-size: 4vw;
+}
+
+#contact-page #contact-info #watsapp {    
+    justify-content: flex-start;
+}
+
+#contact-page #contact-info #instagram {
+    justify-content: flex-end;
+    transition: 0.3s;
+}
+
+#contact-page #contact-info #instagram:hover{
+    color: orangered;
+}
+
+@media(max-width: 824px){
+    #contact-page #header {
+        margin-bottom: 25vh;
+    }
+}
+
+@media(max-width: 459px){
+    #contact-page {
+        height: 70vh;
+    }
+    
+    #contact-page .today-background {
+        height: 69vh;
+    }
+
+    #contact-page #header{
+        font-size: 5vw;
+    }
+    #contact-page #contact-info .contact-item img {
+        width: 13vw;
+    }
+    
+    #contact-page #contact-info .contact-item h3 {
+        font-size: 6vw;
+    }
+    #contact-page #header {
+        margin-bottom: 13vh;
+    }
+}

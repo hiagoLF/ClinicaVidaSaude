@@ -1,0 +1,165 @@
+#today-doctor-field {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+    width: 13em;
+
+    height: 28em;
+    max-height: 15cm;
+
+    border-radius: 5px;
+
+    background-color: rgba(255, 210, 155, 0.671);
+    position: relative;
+
+    transition: 0.2s;
+
+    cursor: pointer;
+
+    margin: 2px;
+}
+
+#today-doctor-field #doctor-name {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1.4em;
+    margin: 0 3% 0 3%;
+}
+
+#today-doctor-field #doctor-image {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+
+#today-doctor-field #organ-text {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 1em;
+}
+
+#today-doctor-field #doctor-spetialties {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 40%;
+}
+
+#today-doctor-field #doctor-spetialties #espetialtie-item {
+    background-color: rgb(224, 207, 183);
+    align-items: center;
+    padding: 4%;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    width: 80%;
+
+    margin: 0.5% 0 0.5% 0;
+}
+
+
+#today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-icon {
+    width: 2em;
+    margin-right: 4%;
+}
+
+#today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-text {
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    font-size: 1em;
+}
+
+#today-doctor-field:hover {
+    box-shadow: 0 0 15px ivory;
+    margin-top: 0;
+    transition: 0.2s;
+}
+
+#today-doctor-field #doctor-spetialties #espetialtie-item:hover {
+    background-color: #f0f8f6;
+}
+
+@media(max-width: 681px){
+    #today-doctor-field {
+        width: 10em;
+    }
+    #today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-text {
+        font-size: 0.8em;
+    }
+    #today-doctor-field #doctor-spetialties #espetialtie-item {
+        flex-direction: column;
+    }
+    
+}
+
+@media(max-width: 534px){
+    #today-doctor-field {
+        width: 8em;
+    }
+}
+@media(max-width: 433px){
+    #today-doctor-field {
+        width: 16em;
+        height: 29em;
+    }
+    #today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-text {
+        font-size: 1.3em;
+    }
+
+    #today-doctor-field #doctor-spetialties #espetialtie-item {
+        flex-direction: row;
+    }
+}
+
+
+
+
+
+/* @media(max-width: 946px) {
+    #today-doctor-field {
+        width: 30vw;
+    }
+    
+}
+
+@media(max-width: 847px){
+    #today-doctor-field {
+        width: 26vw;
+    }
+}
+
+@media(max-width: 713px) {
+    #today-doctor-field {
+        width: 27.4vw;
+    }
+}
+
+@media(max-width: 644px) {
+    #today-doctor-field #doctor-spetialties #espetialtie-item {
+        flex-direction: column;
+    }
+
+    #today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-text {
+        font-size: 2.5vw;
+    }
+}
+
+@media(max-width: 520px) {
+    #today-doctor-field {
+        width: 33vw;
+    }
+
+    #today-doctor-field #doctor-spetialties #espetialtie-item {
+        width: 98%;
+    }
+
+    #today-doctor-field #doctor-spetialties #espetialtie-item #spetialtie-text {
+        font-size: 3.3vw;
+    }
+} */

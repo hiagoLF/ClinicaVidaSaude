@@ -1,0 +1,132 @@
+#doctor-info-box{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#doctor-info-box #back-button {
+    position: relative;
+    width: 80vw;
+}
+
+#doctor-info-box .back-link {
+    color: black;
+    font-size: 5vh;
+    position: absolute;
+
+    margin-top: 2%;
+
+    transition: color 0.33s;
+
+    cursor: pointer;
+}
+
+#doctor-info-box .back-link:hover {
+    color: coral;
+}
+
+#doctor-info-box .background {
+    background-color: #fff3c1;
+    width: 96.4vw;
+    height: 97vh;
+
+    margin: 1.2%;
+    border-radius: 10px;
+
+    position: absolute;
+
+    z-index: -1;
+}
+
+#doctor-info-box #doctor-info-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(224, 207, 183);
+    padding: 3% 7% 3% 7%;
+    border-radius: 20px;
+    width: 75vw;
+}
+
+#doctor-info-box #doctor-info-main #presenting {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 3%;
+}
+
+#doctor-info-box #doctor-info-main #image {
+    height: 20em;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#doctor-info-box #doctor-info-main #presenting #spetialties {
+    display: flex;
+}
+
+#doctor-info-box #doctor-info-main #presenting #name {
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#doctor-info-box #doctor-info-main #presenting #curriculum {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+@media(max-height: 429px){
+    #doctor-info-box{
+        height: 25em;
+    }
+    #doctor-info-box .background {
+        height: 25em;
+    }
+}
+
+@media(max-width: 743px){
+    #doctor-info-box #doctor-info-main {
+        flex-direction: column;
+    }
+    #doctor-info-box{
+        height: 47em;
+    }
+    #doctor-info-box .background {
+        height: 47em;
+    }
+}
+
+@media(max-width: 399px){
+    #doctor-info-box #doctor-info-main {
+        margin-top: 2.em;
+    }
+    #doctor-info-box{
+        height: 45em;
+    }
+    #doctor-info-box .background {
+        height: 45em;
+    }
+}
+
+@media(max-width: 334px){
+    #doctor-info-box #doctor-info-main #image {
+        width: 14em;
+        height: 14em;
+    }
+}
+
+@media(max-width: 267px){
+    #doctor-info-box #doctor-info-main #image {
+        width: 10em;
+        height: 10em;
+    }
+}
+
+.nothing{
+    height: 10em;
+}

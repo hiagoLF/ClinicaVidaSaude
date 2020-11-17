@@ -1,0 +1,6 @@
+window.scrollTo(x, y)
+--> rolar página automaticamente
+
+
+window.innerHeight
+--> Tamanho da página

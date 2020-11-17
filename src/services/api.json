@@ -1,0 +1,312 @@
+{
+    "Spetialties": [
+        [
+            "Cardiologia",
+            "cardio.png"
+        ],
+        [
+            "Gastroenterologia",
+            "gastro.png"
+        ],
+        [
+            "Neurocirurgia",
+            "neuro.png"
+        ],
+        [
+            "Psicologia",
+            "psico.png"
+        ],
+        [
+            "Mastologia",
+            "masto.svg"
+        ],
+        [
+            "Oncologia",
+            "onco.png"
+        ],
+        [
+            "Ginecologia e Obstetrícia",
+            "gineco.svg"
+        ],
+        [
+            "Pediatria",
+            "padiat.png"
+        ],
+        [
+            "Otorrinolaringologia",
+            "otorrino.png"
+        ],
+        [
+            "Ortopedia e Traumatologia",
+            "ortoped.png"
+        ],
+        [
+            "Fonoaudiologia",
+            "fono.png"
+        ],
+        [
+            "Proctologia",
+            "procto.png"
+        ],
+        [
+            "Dermatologia",
+            "dermato.png"
+        ],
+        [
+            "Clínica Médica",
+            "med.png"
+        ]
+    ],
+    "SpetialtiesDescription": [
+        [
+            "Cardiologia é a especialidade médica que se ocupa do diagnóstico e tratamento das doenças que acometem o coração bem como os outros componentes do sistema circulatório. O médico especialista nessa área é o cardiologista.",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Cardiologia"
+        ],
+        [
+            "Gastroenterologia é a especialidade médica responsável por diagnosticar, prevenir e tratar problemas não cirúrgicos no aparelho digestivo.",
+            "https://ccddf.com.br/",
+            "https://ccddf.com.br/doencas-tratadas-pelo-gastroenterologista/#:~:text=Gastroenterologia%20%C3%A9%20a%20especialidade%20m%C3%A9dica,e%20vias%20biliares%2C%20dentre%20outras."
+        ],
+        [
+            "Neurocirurgia é a especialidade médica que se ocupa do tratamento de pessoas portadoras de doenças do sistema nervoso central e periférico, tais como hidrocefalia, tumores, doenças vasculares, degenerativas, traumas crânio-encefálicos e lesões raqui-medulares passíveis de abordagem cirúrgica.",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Neurocirurgia#:~:text=Neurocirurgia%20%C3%A9%20a%20especialidade%20m%C3%A9dica,e%20les%C3%B5es%20raqui%2Dmedulares%20pass%C3%ADveis"
+        ],
+        [
+            "A psicologia é o estudo científico da mente e do comportamento incluíndo sub-campos, como áreas de desenvolvimento humano, esportes, saúde, comportamento clínico, social e processos cognitivos.",
+            "vittude.com",
+            "https://www.vittude.com/blog/o-que-e-psicologia-e-como-surgiu/#:~:text=A%20psicologia%20%C3%A9%20o%20estudo,cl%C3%ADnico%2C%20social%20e%20processos%20cognitivos."
+        ],
+        [
+            "A mastologia ou senologia é especialidade médica que se dedica ao estudo das glândulas mamárias. O mastologista é o especialista que estuda, previne, diagnostica, trata e reabilita todas as doenças da mama",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Mastologia#:~:text=A%20mastologia%20ou%20senologia%20%C3%A9,todas%20as%20doen%C3%A7as%20da%20mama."
+        ],
+        [
+            "O oncologista é o médico clínico especializado no tratamento do câncer. É aquele profissional que se ocupa da abordagem geral, do cuidado do paciente e especificamente da prescrição de tratamentos sistêmicos como quimioterapia, hormonioterapia e terapia biológica.",
+            "oncoguia.org.br",
+            "http://www.oncoguia.org.br/conteudo/o-que-e-oncologia/82/1/#:~:text=O%20oncologista%20%C3%A9%20o%20m%C3%A9dico,quimioterapia%2C%20hormonioterapia%20e%20terapia%20biol%C3%B3gica."
+        ],
+        [
+            "A ginecologia é a prática da medicina que lida diretamente com a saúde do aparelho reprodutor feminino (vagina, útero e ovários) e mamas. A obstetrícia é o ramo da medicina que estuda a reprodução na mulher, investiga a gestação, o parto e o puerpério nos seus aspectos fisiológicos e patológicos.",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Ginecologia"
+        ],
+        [
+            "A pediatria é a especialidade médica dedicada à assistência à criança e ao adolescente nos seus diversos aspectos, sejam eles preventivos ou curativos.",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Pediatria"
+        ],
+        [
+            "A Otorrinolaringologia é uma especialidade médica clínico-cirúrgica. O especialista avalia doenças do nariz e seios paranasais, ouvido, faringe e laringe, aparelho auditivo, fonatório, vestibular (tontura) e distúrbios do sono.",
+            "pebmed.com.br",
+            "https://pebmed.com.br/otorrinolaringologia-atividade-clinica-ambulatorial-e-educacao-cirurgica/"
+        ],
+        [
+            "Ortopedia é a especialidade médica que utiliza métodos para tratar, corrigir enfermidades, lesões e deformidades ósseas, dos músculos, dos tendões, articulações e ligamentos. A Traumatologia é a especialidade médica que lida com as lesões corporais resultantes de traumatismos do aparelho músculo-esquelético",
+            "infoescola.com",
+            "https://www.infoescola.com/medicina/ortopedia/"
+        ],
+        [
+            "A Fonoaudiologia ou Terapia da fala e Audiologia é a ciência que estuda as funções biologicas e comportamentais envolvidas na comunicação humana incluindo funções neurovegetativas (mastigação, deglutição e aspectos funcionais da respiração)",
+            "wikipedia.org",
+            "https://pt.wikipedia.org/wiki/Fonoaudiologia"
+        ],
+        [
+            "Proctologia é a parte da gastroenterologia direcionada aos estudos das doenças do intestino grosso e delgado, do reto e ânus. O Proctologista é um cirurgião especializado em tratamentos cirúrgicos e não cirúrgicos na área de proctologia",
+            "portaldacoloproctologia.com.br",
+            "https://portaldacoloproctologia.com.br/sua-saude/o-que-e-o-medico-coloproctologista-ou-proctologista/"
+        ],
+        [
+            "A Dermatologia é uma especialidade médica cuja área de conhecimento se concentra no diagnóstico, prevenção e tratamento de doenças e afecções relacionadas à pele, pelos, mucosas, cabelo e unhas. É também indicada para atuação em procedimentos médicos estéticos, cirúrgicos e oncológicos.",
+            "sbd.org.br",
+            "https://www.sbd.org.br/dermatologia/sobre-a-dermatologia/o-que-e-dermatologia/"
+        ],
+        [
+            "A Clínica Médica é considerada uma das áreas bases da medicina, englobando diversas especialidades clínicas. Os pacientes se apresentam com um conjunto de sinais e sintomas e é o clínico o grande responsável pela investigação.",
+            "pebmed.com.br",
+            "https://pebmed.com.br/clinica-medica-especialidade-com-o-maior-campo-de-trabalho/"
+        ]
+    ],
+    "Doctors": [
+        [
+            "Afonso Malta",
+            [
+                11,
+                1
+            ],
+            "CRM: 1986",
+            "Conhecido na região como 'Bisturi de ouro' por conta de sua capacidade medica invejável, o Dr. Afonso Malta faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "afonsoM.jpg"
+        ],
+        [
+            "Cristina Brustolin",
+            [
+                1
+            ],
+            "CRM: -----",
+            "Atuando como profissional de atletas de alto nível em toda Bahia, a nutri Cris, faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "cristina.jpg"
+        ],
+        [
+            "Edgar Falcão",
+            [
+                2
+            ],
+            "CRM: 7491",
+            "O neurocirurgião mais solicitado da região! O famoso Edgar Falcão, realiza consultas na Vida e Saúde! O Edgar, faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "edgar.jpg"
+        ],
+        [
+            "Grácia Matos",
+            [
+                
+            ],
+            "CRM: 7491",
+            "Aplicando todo o conhecimento de terapias alternativas desenvolvidas em diversas partes do mundo, a profissional Grácia Matos faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "graciaM.jpg"
+        ],
+        [
+            "Angélica Portugal",
+            [
+                3
+            ],
+            "CRP: 6496",
+            "Angélica, a psicóloga angelical! Psicóloga anjo, faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "angelicaP.jpg"
+        ],
+        [
+            "Fátima Trajano",
+            [
+                4,
+                5
+            ],
+            "CRM: 5263",
+            "Com duas especializações médica, ela atua como Oncologista e Mastologista! A famosa Dra Fatima Trajano, faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "fatimaT.jpg"
+        ],
+        [
+            "Gedeon Costa",
+            [
+                6
+            ],
+            "CRM: 3716",
+            "Sempre com muita alegria e profissionalismo! Cativa a todos com sua positividade! Com anos atuando na medicina, o Dr. Gedeon Rodrigues faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "gedeon.jpg"
+        ],
+        [
+            "João Lessa",
+            [
+                7
+            ],
+            "CRM: 4133",
+            "Com muita classe, responsabilidade e profissionalismo, o Dr João Lessa, sempre atende seus pequenos pacientes com muito cuidado e amor! Um doce! Faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "JoaoL.jpg"
+        ],
+        [
+            "Jorge Roberto",
+            [
+                8
+            ],
+            "CRM: 4135",
+            "Com bastante experiência na medicina, atuando como otorrinolaringologista, o Dr. Jorge Roberto tem um currículo admirável! Sempre muito atencioso e assertivo, faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "JorgeR.jpg"
+        ],
+        [
+            "José Arnaldo",
+            [
+                
+            ],
+            "CRM: 10163",
+            "Não marcou agenda",
+            "default.png"
+        ],
+        [
+            "Larissa Rangel",
+            [
+                10
+            ],
+            "CRFA: 412070",
+            "Sempre com muito amor, profissionalismo a Dra. Larissa Rangel, faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "larissa.jpg"
+        ],
+        [
+            "Leandro Oliveira",
+            [
+                9
+            ],
+            "CRM: 19828",
+            "Ortopedista nota 10! Dr. Leandro Oliveira atua sempre com muita dedicação e confiança! Faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "leandro.jpg"
+        ],
+        [
+            "Luiz Duarte",
+            [
+                13,
+                0
+            ],
+            "CRM: 4781",
+            "Sendo um dos melhores cardiologistas do Brasil, o Dr. Luiz Duarte, continua atuando com muita atenção, carinho e profissionalismo. O Dr Luiz Duarte faz parte da equipe Vida e Saúde por ser um profissional de excelência!",
+            "luizE.jpg"
+        ],
+        [
+            "Milena Alves",
+            [
+                13,
+                12
+            ],
+            "CRM: 27191",
+            "Ajudando diverso pacientes com muita alegria e dedicação, a Dra Milena Bezerra faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "milenaP.jpg"
+        ],
+        [
+            "Reyli Maria",
+            [
+                6
+            ],
+            "CRM: 027987",
+            "Sempre muito querida pelas pacientes! Um amor! A Ginecologista Dra. Reyli Maria é muito cuidadosa e atenciosa, faz parte da equipe Vida e Saúde por ser uma profissional de excelência!",
+            "reyili.jpg"
+        ]
+    ],
+    "Schedule": [
+        [],
+        [
+            4,
+            5,
+            10
+        ],
+        [
+            8,
+            12
+        ],
+        [
+            4,
+            5,
+            10
+        ],
+        [
+            3
+        ],
+        [
+            0,
+            1,
+            4,
+            5,
+            6,
+            10,
+            11
+        ],
+        []
+    ],
+    "Days": [
+        "Domingo",
+        "Segunda feira",
+        "Terça feira",
+        "Quarta feira",
+        "Quinta feira",
+        "Sexta feira",
+        "Sábado"
+    ]
+}

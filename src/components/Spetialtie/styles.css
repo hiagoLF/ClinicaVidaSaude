@@ -1,0 +1,150 @@
+#spetialtie {
+    width: 98.5vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 30em;
+}
+
+.link-box {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 21vh;
+}
+
+#spetialtie .link-box #space-box {
+    width: 90vw;
+}
+
+#spetialtie .link-box .back-link {
+    color: black;
+    font-size: 2em;
+    position: absolute;
+    transition: color 0.33s;
+}
+
+#spetialtie .link-box .home-link {
+    color: white;
+    font-size: 2em;
+    position: absolute;
+    right: -2.3%;
+
+    transition: color 0.33s;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: black;
+
+    padding: 0.3%;
+    border-radius: 5px;
+}
+
+#spetialtie .link-box .home-link span {
+    font-size: 2vw;
+}
+
+#spetialtie .link-box .back-link:hover {
+    color: coral;
+}
+
+#spetialtie .link-box .home-link:hover {
+    color: coral;
+}
+
+
+#spetialtie #espetials-background {
+    height: 80vh;
+    width: 97%;
+    object-position: bottom;
+    object-fit: cover;
+    border-radius: 8px;
+    filter: sepia(70%) blur(3px);
+    position: absolute;
+    z-index: -1;
+
+    min-height: 30em;
+}
+
+#spetialtie #spetialtie-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#spetialtie #spetialtie-content #spetialtie-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    background-color: rgba(255, 228, 196, 0.671);
+    padding: 2%;
+    border-radius: 15px;
+}
+
+#spetialtie #spetialtie-content #spetialtie-info #spetialtie-img{
+    width: 10em;
+}
+
+#spetialtie #spetialtie-content #spetialtie-info #spetialtie-text{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+}
+
+#spetialtie #spetialtie-content #spetialties-doctors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1% 0 1%;
+}
+
+
+@media(max-width: 855px){
+    #spetialtie #spetialtie-content #spetialtie-info #spetialtie-text{
+        font-size: 1em;
+    }
+    #spetialtie #spetialtie-content #spetialtie-info{
+        width: 20em;
+    }
+}
+
+@media(max-width: 783px){
+    #spetialtie #spetialtie-content {
+        flex-direction: column;
+    }
+    #spetialtie {
+        height: 58em;
+    }
+    #spetialtie #espetials-background {
+        height: 57em;
+    }    
+}
+
+@media(max-width: 433px){
+    #spetialtie #spetialtie-content #spetialties-doctors{
+        flex-direction: column;
+    }
+    #spetialtie {
+        height: 88em;
+    }
+    #spetialtie #espetials-background {
+        height: 88em;
+    }    
+}
+
+@media(max-width: 427px){
+    #spetialtie #spetialtie-content {
+        margin-top: 4em;
+    }
+    #spetialtie #spetialtie-content #spetialtie-info{
+        width: 15em;
+    }
+}

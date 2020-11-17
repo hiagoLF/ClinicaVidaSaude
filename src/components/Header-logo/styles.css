@@ -1,0 +1,21 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-container #img-logo{
+    height: 20vh;
+}
+
+@media(max-height: 446px){
+    .header-container #img-logo{
+        height: 6em;
+    }
+}
+
+@media(max-width: 451px){
+    .header-container #img-logo{
+        height: 6em;
+    }
+}
